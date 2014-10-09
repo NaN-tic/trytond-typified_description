@@ -1,0 +1,107 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:typified.description,category:"
+msgid "Category"
+msgstr "Categoría"
+
+msgctxt "field:typified.description,create_date:"
+msgid "Create Date"
+msgstr "Fecha de creación"
+
+msgctxt "field:typified.description,create_uid:"
+msgid "Create User"
+msgstr "Usuario de creación"
+
+msgctxt "field:typified.description,description:"
+msgid "Description"
+msgstr "Descripción"
+
+msgctxt "field:typified.description,id:"
+msgid "ID"
+msgstr "Identificador"
+
+msgctxt "field:typified.description,name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:typified.description,rec_name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:typified.description,write_date:"
+msgid "Write Date"
+msgstr "Fecha modificación"
+
+msgctxt "field:typified.description,write_uid:"
+msgid "Write User"
+msgstr "Usuario modificación"
+
+msgctxt "field:typified.description.category,create_date:"
+msgid "Create Date"
+msgstr "Fecha de creación"
+
+msgctxt "field:typified.description.category,create_uid:"
+msgid "Create User"
+msgstr "Usuario de creación"
+
+msgctxt "field:typified.description.category,id:"
+msgid "ID"
+msgstr "Identificador"
+
+msgctxt "field:typified.description.category,name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:typified.description.category,rec_name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:typified.description.category,write_date:"
+msgid "Write Date"
+msgstr "Fecha modificación"
+
+msgctxt "field:typified.description.category,write_uid:"
+msgid "Write User"
+msgstr "Usuario modificación"
+
+msgctxt "model:ir.action,name:act_typified_description"
+msgid "Descriptions"
+msgstr "Descripciones"
+
+msgctxt "model:ir.action,name:act_typified_description_category"
+msgid "Categories"
+msgstr "Categorías"
+
+msgctxt "model:ir.ui.menu,name:menu_typified_description"
+msgid "Typified Descriptions"
+msgstr "Descripciones tipificadas"
+
+msgctxt "model:ir.ui.menu,name:menu_typified_description_category"
+msgid "Categories"
+msgstr "Categorías"
+
+msgctxt "model:ir.ui.menu,name:menu_typified_description_form"
+msgid "Descriptions"
+msgstr "Descripciones"
+
+msgctxt "model:res.group,name:group_typified_description_admin"
+msgid "Typified Description Administration"
+msgstr "Administración descripciones tipificadas"
+
+msgctxt "model:typified.description,name:"
+msgid "Typified Description"
+msgstr "Descripcion tipificada"
+
+msgctxt "model:typified.description.category,name:"
+msgid "Typfied Description Category"
+msgstr "Categoría descripcion tipificada"
+
+msgctxt "view:typified.description.category:"
+msgid "Typfied Description Category"
+msgstr "Categoría descripcion tipificada"
+
+msgctxt "view:typified.description:"
+msgid "Typified Description"
+msgstr "Descripcion tipificada"
